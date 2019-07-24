@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cbffae9-b9d9-467f-934e-2514d974a01e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/yii.local/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony.local/config/routes.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony.local/templates/default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony.local/src/Controller/MainController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel.local/public/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel.local/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony.local/src/Controller/LuckyController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yii.local/views/site/index.php" />
+        <option value="$PROJECT_DIR$/symfony.local/templates/base.html.twig" />
+        <option value="$PROJECT_DIR$/symfony.local/src/Controller/LuckyController.php" />
+        <option value="$PROJECT_DIR$/symfony.local/src/Controller/Main.php" />
+        <option value="$PROJECT_DIR$/symfony.local/templates/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/symfony.local/config/routes.yaml" />
+        <option value="$PROJECT_DIR$/laravel.local/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/yii.local/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/codeception/base" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/composer" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/codeception/specify" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/yii.local/vendor/yiisoft/yii2-bootstrap" />
+    </include_path>
+  </component>
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="57" />
+    <option name="y" value="25" />
+    <option name="width" value="1600" />
+    <option name="height" value="864" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frameworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.php.debug.xdebug.proxy" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cbffae9-b9d9-467f-934e-2514d974a01e" name="Default Changelist" comment="" />
+      <created>1563973217116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563973217116</updated>
+      <workItem from="1563973218647" duration="3646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3646000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1600" height="864" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yii.local/web/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii.local/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/src/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/routes/dev/web_profiler.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/routes/annotations.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/src/Controller/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/var/cache/dev/twig/0a/0a415eed074771bf89c0c0989f02ef1784f208528281574f8fcfd398ae6542f2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1100">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/var/log/dev.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/routes/dev/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/bin/console">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/bin/phpunit">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/bundles.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/services.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/packages/routing.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/packages/prod/doctrine.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/packages/dev/web_profiler.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#7#22#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/templates/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/config/routes.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/src/Controller/LuckyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony.local/src/Controller/MainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel.local/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel.local/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
